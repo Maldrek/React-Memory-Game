@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Scott",
+        "image": "../public/images/MS.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Creed Bratton",
+        "image": "../public/images/Creed.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Andy Bernard",
+        "image": "../public/images/AB.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Angela Murphy",
+        "image": "../public/images/AM.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dwight Schrute",
+        "image": "../public/images/DS.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jim Halpert",
+        "image": "../public/images/JH.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Kevin Malone",
+        "image": "../public/images/Kevin.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kelly Kapoor",
+        "image": "../public/images/KK.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Meredith Palmer",
+        "image": "../public/images/MP/jpg"
+    },
+    {
+        "id": 10,
+        "name": "Oscar Martinez",
+        "image": "../public/images/OM.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pam Beasley",
+        "image": "../public/images/PH.png"
+    },
+    {
+        "id": 12,
+        "name": "Phyllis Vance",
+        "image": "../public/images/Phyllis.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Ryan Howard",
+        "image": "../images/RH.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Stanley Hudson",
+        "image": "../public/images/Stanley.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Toby Flenderson",
+        "image": "../public/images/TF.jpg"
+    }
+]

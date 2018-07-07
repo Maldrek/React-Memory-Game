@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 150px;
+  float: left;
+  margin: 40px;
+  cursor: pointer;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card:hover{
+  transform: scale(1.15);
+  transition: .2s ease-in-out;
+}
+
+.jumbotron {
+  color: white;
+  background-image: url('../src/components/Jumbotron/office.png');
+  background-repeat: repeat;
+}
+
+.dark-box {
+  background-color: rgb(23,162,184, 0.8);
+  padding: 25px 25px 20px;
+}
